@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="Tomcat">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/tomcat/annotations-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat/catalina-ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat/catalina-ha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat/catalina-storeconfig.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat/catalina-tribes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat/catalina.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat/ecj-4.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat/el-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat/jasper-el.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat/jasper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat/jaspic-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat/tomcat-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat/tomcat-coyote.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat/tomcat-dbcp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat/tomcat-jdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat/tomcat-jni.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat/tomcat-util-scan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat/tomcat-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat/tomcat-websocket.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat/websocket-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
